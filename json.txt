@@ -1,4 +1,4 @@
 {
-    "on": 0,
+    "on": 1,
     "url": "http://h5.m6yx.com/wx/cps.html?id=23&pid=50"
 }
